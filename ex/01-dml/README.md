@@ -14,3 +14,13 @@ This set of exercises will walk you through the most common SQL commands.
 - `08-like.sql`
 - `09-limit.sql`
 - `10-is-it-null.sql`
+- `11-order-by.sql`
+- `12-inner-join.sql`
+- `13-left-join.sql`
+- `14-group-by.sql`
+- `15-having.sql`
+- `16-union.sql`
+- `17-union-all.sql`
+- `18-insert.sql`
+- `19-update.sql`
+- `20-delete.sql`

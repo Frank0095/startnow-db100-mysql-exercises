@@ -1,9 +1,9 @@
-#                              __ 
+#                              __
 # .--------.--.--.-----.-----.|  |
 # |        |  |  |__ --|  _  ||  |
 # |__|__|__|___  |_____|__   ||__|
-#          |_____|        |__|    
-#                                 
+#          |_____|        |__|
+#
 # MySQL DML Exercises 3/20 - The WHERE Clause
 
 # Write a query to retrieve films longer than 3 hours.
